@@ -1,0 +1,3 @@
+[submodule "Librarymgmt/Librarymgmt"]
+	path = Librarymgmt/Librarymgmt
+	url = https://github.com/chs75/LibraryMgmt.git
